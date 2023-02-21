@@ -4,7 +4,7 @@ import React from 'react'
 const Cart = () => {
     return (
         <div>
-            <h1>Vista del carrito en construccion</h1>
+            <h1>UNDER CONSTRUCTION</h1>
         </div>
     )
 }
